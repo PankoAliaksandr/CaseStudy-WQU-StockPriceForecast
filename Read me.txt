@@ -1,0 +1,2 @@
+The program contains only standard functions.
+No any special libraries required.
